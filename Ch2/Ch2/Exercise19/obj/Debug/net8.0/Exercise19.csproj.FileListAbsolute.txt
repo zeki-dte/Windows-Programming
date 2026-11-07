@@ -1,0 +1,14 @@
+/home/zeki/WP/Exercise19/bin/Debug/net8.0/Exercise19
+/home/zeki/WP/Exercise19/bin/Debug/net8.0/Exercise19.deps.json
+/home/zeki/WP/Exercise19/bin/Debug/net8.0/Exercise19.runtimeconfig.json
+/home/zeki/WP/Exercise19/bin/Debug/net8.0/Exercise19.dll
+/home/zeki/WP/Exercise19/bin/Debug/net8.0/Exercise19.pdb
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/Exercise19.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/Exercise19.AssemblyInfoInputs.cache
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/Exercise19.AssemblyInfo.cs
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/Exercise19.csproj.CoreCompileInputs.cache
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/Exercise19.dll
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/refint/Exercise19.dll
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/Exercise19.pdb
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/Exercise19.genruntimeconfig.cache
+/home/zeki/WP/Exercise19/obj/Debug/net8.0/ref/Exercise19.dll

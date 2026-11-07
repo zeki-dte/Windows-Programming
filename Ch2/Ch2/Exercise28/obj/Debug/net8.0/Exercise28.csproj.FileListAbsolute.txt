@@ -1,0 +1,14 @@
+/home/zeki/WP/Exercise28/bin/Debug/net8.0/Exercise28
+/home/zeki/WP/Exercise28/bin/Debug/net8.0/Exercise28.deps.json
+/home/zeki/WP/Exercise28/bin/Debug/net8.0/Exercise28.runtimeconfig.json
+/home/zeki/WP/Exercise28/bin/Debug/net8.0/Exercise28.dll
+/home/zeki/WP/Exercise28/bin/Debug/net8.0/Exercise28.pdb
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/Exercise28.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/Exercise28.AssemblyInfoInputs.cache
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/Exercise28.AssemblyInfo.cs
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/Exercise28.csproj.CoreCompileInputs.cache
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/Exercise28.dll
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/refint/Exercise28.dll
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/Exercise28.pdb
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/Exercise28.genruntimeconfig.cache
+/home/zeki/WP/Exercise28/obj/Debug/net8.0/ref/Exercise28.dll
