@@ -1,0 +1,14 @@
+/home/zeki/WP/Ch3/Exercise5/bin/Debug/net8.0/Exercise5
+/home/zeki/WP/Ch3/Exercise5/bin/Debug/net8.0/Exercise5.deps.json
+/home/zeki/WP/Ch3/Exercise5/bin/Debug/net8.0/Exercise5.runtimeconfig.json
+/home/zeki/WP/Ch3/Exercise5/bin/Debug/net8.0/Exercise5.dll
+/home/zeki/WP/Ch3/Exercise5/bin/Debug/net8.0/Exercise5.pdb
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/Exercise5.AssemblyInfoInputs.cache
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/Exercise5.AssemblyInfo.cs
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/Exercise5.csproj.CoreCompileInputs.cache
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/Exercise5.dll
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/refint/Exercise5.dll
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/Exercise5.pdb
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/Exercise5.genruntimeconfig.cache
+/home/zeki/WP/Ch3/Exercise5/obj/Debug/net8.0/ref/Exercise5.dll
