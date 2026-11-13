@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/zeki/WP/Ch3/Exercise1/Exercise1.csproj",
+      "projectUniqueName": "/home/zeki/Class/WP/Ch3/Exercise01/Exercise1.csproj",
       "projectName": "Exercise1",
-      "projectPath": "/home/zeki/WP/Ch3/Exercise1/Exercise1.csproj",
+      "projectPath": "/home/zeki/Class/WP/Ch3/Exercise01/Exercise1.csproj",
       "packagesPath": "/home/zeki/.nuget/packages/",
-      "outputPath": "/home/zeki/WP/Ch3/Exercise1/obj/",
+      "outputPath": "/home/zeki/Class/WP/Ch3/Exercise01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/zeki/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/zeki/.dotnet/sdk/8.0.428/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/zeki/WP/Ch3/Exercise4/Exercise4.csproj": {}
+    "/home/zeki/Class/WP/Ch3/Exercise04/Exercise4.csproj": {}
   },
   "projects": {
-    "/home/zeki/WP/Ch3/Exercise4/Exercise4.csproj": {
+    "/home/zeki/Class/WP/Ch3/Exercise04/Exercise4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zeki/WP/Ch3/Exercise4/Exercise4.csproj",
+        "projectUniqueName": "/home/zeki/Class/WP/Ch3/Exercise04/Exercise4.csproj",
         "projectName": "Exercise4",
-        "projectPath": "/home/zeki/WP/Ch3/Exercise4/Exercise4.csproj",
+        "projectPath": "/home/zeki/Class/WP/Ch3/Exercise04/Exercise4.csproj",
         "packagesPath": "/home/zeki/.nuget/packages/",
-        "outputPath": "/home/zeki/WP/Ch3/Exercise4/obj/",
+        "outputPath": "/home/zeki/Class/WP/Ch3/Exercise04/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/zeki/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/zeki/.dotnet/sdk/8.0.428/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
